@@ -1,0 +1,9 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.header-title{
+    background-color: blue;
+    padding: 10px;
+}
